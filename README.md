@@ -44,7 +44,7 @@ RegisterNumber:  212223240073
 # Implicit
 
 MainActivity.java
-```
+```java
 package com.nextstep.imp;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -88,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
 # Explicit
 
 MainActivity.java
-```
+```java
 package com.nextstep.exp;
 
 import android.os.Bundle;
@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 MainActivity2.java
-```
+```java
 package com.nextstep.exp;
 
 import android.os.Bundle;
@@ -147,7 +147,7 @@ public class MainActivity2 extends AppCompatActivity {
 ## activity_main.xml:
 
 # Implicit
-```
+```java
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/main"
@@ -185,7 +185,7 @@ public class MainActivity2 extends AppCompatActivity {
 # Explicit
 
 activity_main.xml
-```
+```java
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -221,7 +221,7 @@ activity_main.xml
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 activity_main2.xml
-```
+```java
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
