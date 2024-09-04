@@ -40,11 +40,9 @@ RegisterNumber:  212223240073
 ```
 
 ## MainActivity.java:
+### IMPLICIT
 
-# Implicit
-
-MainActivity.java
-```java
+```
 package com.nextstep.imp;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -84,11 +82,10 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
+### EXPLICIT
 
-# Explicit
-
-MainActivity.java
-```java
+MAIN ACTIVITY.JAVA
+```
 package com.nextstep.exp;
 
 import android.os.Bundle;
@@ -114,8 +111,8 @@ public class MainActivity extends AppCompatActivity {
 
 }
 ```
-MainActivity2.java
-```java
+MAIN ACTIVITY2.JAVA
+```
 package com.nextstep.exp;
 
 import android.os.Bundle;
@@ -143,11 +140,9 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 
 
-
 ## activity_main.xml:
-
-# Implicit
-```java
+### IMPLICIT
+```xml
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/main"
@@ -181,11 +176,12 @@ public class MainActivity2 extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-```
-# Explicit
 
+```
+
+### EXPLICIT
 activity_main.xml
-```java
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -221,7 +217,7 @@ activity_main.xml
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 activity_main2.xml
-```java
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -261,17 +257,15 @@ activity_main2.xml
 ```
 
 ## OUTPUT:
+### IMPLICIT
 
-# Implicit
+![image](https://github.com/user-attachments/assets/959949cf-fdc9-420b-9487-9e7190261d0c)
+![image](https://github.com/user-attachments/assets/149591e2-10ac-4a7f-b462-a08d01aed05c)
 
+### EXPLICIT
 
-
-
-# Explicit
-
-
-
-
+![image](https://github.com/user-attachments/assets/c1283f85-efff-44d5-8c2d-13242a1a9e7d)
+![image](https://github.com/user-attachments/assets/28d987e8-66c3-4efb-853a-f2840b230791)
 
 
 ## RESULT:
