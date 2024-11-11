@@ -260,11 +260,15 @@ activity_main2.xml
 ### IMPLICIT
 
 ![image](https://github.com/user-attachments/assets/959949cf-fdc9-420b-9487-9e7190261d0c)
+<br>
+<br>
 ![image](https://github.com/user-attachments/assets/149591e2-10ac-4a7f-b462-a08d01aed05c)
 
 ### EXPLICIT
 
 ![image](https://github.com/user-attachments/assets/c1283f85-efff-44d5-8c2d-13242a1a9e7d)
+<br>
+<br>
 ![image](https://github.com/user-attachments/assets/28d987e8-66c3-4efb-853a-f2840b230791)
 
 
